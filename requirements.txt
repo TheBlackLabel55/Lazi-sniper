@@ -1,0 +1,21 @@
+# Lazada Listing Sniper - Python Dependencies
+
+# Web Automation
+playwright==1.40.0
+
+# HTTP Requests (for API-based approach)
+requests==2.31.0
+
+# Time synchronization
+ntplib==0.4.0
+
+# Configuration
+python-dotenv==1.0.0
+
+# Utilities
+colorama==0.4.6  # Colored terminal output
+
+# Date/Time handling
+python-dateutil==2.8.2
+
+
